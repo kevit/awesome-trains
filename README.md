@@ -35,6 +35,23 @@ https://en.wikipedia.org/wiki/List_of_track_gauges
 https://www.schwebebahn.net/
 https://en.wikipedia.org/wiki/Maglev
 
+## Wonderful railroads
+https://en.wikipedia.org/wiki/Brusio_spiral_viaduct
+https://www.glacierexpress.ch/en/
+https://en.wikipedia.org/wiki/Pilatus_Railway
+
+## Track trains
+http://oebb-live.hafas.de/bin/help.exe/en?tpl=livefahrplan&
+http://www.viaggiatreno.it/viaggiatrenonew/index.jsp
+https://grapp.spravazeleznic.cz/
+http://raildar.co.uk/
+https://junatkartalla.vr.fi/?lang=en-US
+https://www.sncf.com/en/booking-itinerary/geolocalisation
+https://www.amtrak.com/track-your-train.html
+https://tracker.geops.ch/
+https://rasp.yandex.ru/map/trains/
+https://pass.rzd.ru/
+
 ## Kids railroads
 
 ## Museums
